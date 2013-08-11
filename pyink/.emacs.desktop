@@ -1,0 +1,116 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Aug  9 18:39:30 2013
+;; Desktop file format version 206
+;; Emacs version 22.1.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("0." "def get" "float" "elem" "zoom" "inname" "infile" "def " "saveopt" "elem" "opacity" "def addbuttons" "buttonbox" "addbutton" "saveopt" "\"lang\""))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/media/extraspace/inkscape/pyink/animator.py"
+  "animator.py"
+  'python-mode
+  nil
+  9278
+  '(10029 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . mule-utf-8)))
+
+(desktop-create-buffer 206
+  "/media/extraspace/inkscape/pyink/xml.py"
+  "xml.py"
+  'python-mode
+  nil
+  1057
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/media/extraspace/inkscape/pyink/yai.py"
+  "yai.py"
+  'python-mode
+  nil
+  2887
+  '(1692 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/media/extraspace/inkscape/pyink/frametable.py"
+  "frametable.py"
+  'python-mode
+  nil
+  1757
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/media/extraspace/inkscape/pyink/script.py"
+  "script.py"
+  'python-mode
+  nil
+  1624
+  '(465 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . mule-utf-8) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/media/extraspace/inkscape/pyink/addroot.py"
+  "addroot.py"
+  'python-mode
+  nil
+  199
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/extraspace/inkscape/pyink/pyink.py"
+  "pyink.py"
+  'python-mode
+  nil
+  476
+  '(727 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/extraspace/inkscape/pyink/ipyconsole.py"
+  "ipyconsole.py"
+  'python-mode
+  nil
+  3920
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/media/extraspace/inkscape/pyink/xreload.py"
+  "xreload.py"
+  'python-mode
+  nil
+  281
+  '(3155 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . mule-utf-8)))
+

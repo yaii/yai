@@ -1,0 +1,16 @@
+<inkscape-extension>
+  <_name>Test</_name>
+  <id>org.ekips.filter.test</id>
+  <dependency type="executable" location="extensions">test.py</dependency>
+  <dependency type="executable" location="extensions">inkex.py</dependency>
+  <param name="command" type="string" gui-hidden="true">newframe</param>
+  <effect>
+    <object-type>all</object-type>
+    <effects-menu>
+       <submenu _name="Examples"/>
+    </effects-menu>
+  </effect>
+  <script>
+    <command reldir="extensions" interpreter="python">test.py</command>
+  </script>
+</inkscape-extension>
