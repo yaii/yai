@@ -26,7 +26,7 @@ class Wrapper:
       if not self.window:
         self.window = gtk.Window(gtk.WINDOW_TOPLEVEL)
         self.window.show()
-        print "Created a new top window since no top window was found", top
+        print "Created a new top window since no top window was found", self.window
         toplevel = self.window
         toplevel.add(self.top)
       else:
